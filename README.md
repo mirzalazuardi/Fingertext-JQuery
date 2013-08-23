@@ -16,10 +16,19 @@ go to Menu Plugins > FingerText > Import snippets from ftd files > choose Finger
 
 Getting Started
 
-type 'ready' then press tab
+type 'ready' then press tab in Javascript syntax mode (or extension js)
 
 //result
 
 $(document).ready(function() {
         // code when DOM ready
 });
+
+
+Note : if you write this code in html,php file or other. Just edit, find 'ext:js' and replace it with 'GLOBAL' .
+
+I hope usefull.
+
+
+Regards,,
+@mirzalazuardi
