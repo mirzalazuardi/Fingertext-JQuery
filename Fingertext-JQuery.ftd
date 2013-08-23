@@ -1,0 +1,89 @@
+unload
+ext:js
+unload(function(){
+		$[![//Here your code]!]
+	  });	[>END<]!$[FingerTextData FingerTextData]@#
+submit
+ext:js
+submit(function(){
+		$[![//Here your code]!]
+	  });[>END<]!$[FingerTextData FingerTextData]@#
+scroll
+ext:js
+scroll(function(){
+		$[![//Here your code]!]
+	  });[>END<]!$[FingerTextData FingerTextData]@#
+resize
+ext:js
+resize(function(){
+		$[![//Here your code]!]
+	  });[>END<]!$[FingerTextData FingerTextData]@#
+ready
+ext:js
+$(document).ready(function() {
+        $[![// code when DOM ready]!]
+});
+[>END<]!$[FingerTextData FingerTextData]@#[>END<]!$[FingerTextData FingerTextData]@#
+mouseleave
+ext:js
+mouseleave(function(){
+		$[![//Here your code]!]
+	  });[>END<]!$[FingerTextData FingerTextData]@#
+mouseenter
+ext:js
+mouseenter(function(){
+		$[![//Here your code]!]
+	  });[>END<]!$[FingerTextData FingerTextData]@#
+load
+ext:js
+load(function(){
+		$[![//Here your code]!]
+	  });[>END<]!$[FingerTextData FingerTextData]@#
+keyup
+ext:js
+keyup(function(){
+		$[![//Here your code]!]
+	  });	[>END<]!$[FingerTextData FingerTextData]@#
+keypress
+ext:js
+keypress(function(){
+		$[![//Here your code]!]
+	  });[>END<]!$[FingerTextData FingerTextData]@#
+keydown
+ext:js
+keydown(function(){
+		$[![//Here your code]!]
+	  });	[>END<]!$[FingerTextData FingerTextData]@#
+j
+ext:js
+$("$[![selector]!]").$[![operation]!][>END<]!$[FingerTextData FingerTextData]@#
+fun
+ext:js
+$(function(){
+	$[![// jQuery methods go here...]!]
+});[>END<]!$[FingerTextData FingerTextData]@#
+focus
+ext:js
+focus(function(){
+		$[![//Here your code]!]
+	  });[>END<]!$[FingerTextData FingerTextData]@#
+dblclick
+ext:js
+dblclick(function(){
+		$[![//Here your code]!]
+	  });[>END<]!$[FingerTextData FingerTextData]@#
+click
+ext:js
+click(function(){
+    $[![//Here your code]!]
+  });[>END<]!$[FingerTextData FingerTextData]@#
+change
+ext:js
+change(function(){
+		$[![//Here your code]!]
+	  });[>END<]!$[FingerTextData FingerTextData]@#
+blur
+ext:js
+blur(function(){
+		$[![//Here your code]!]
+	  });[>END<]!$[FingerTextData FingerTextData]@#
